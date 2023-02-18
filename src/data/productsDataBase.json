@@ -151,5 +151,14 @@
       "discount": 12,
       "image": "1676683817783_products_.jpg",
       "category": "in-sale"
+   },
+   {
+      "id": 18,
+      "name": "iphone",
+      "description": "el nuevo iphone 200",
+      "price": 232333,
+      "discount": 18,
+      "image": "1676684925429_products_.webp",
+      "category": "in-sale"
    }
 ]
